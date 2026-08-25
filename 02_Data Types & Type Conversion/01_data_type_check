@@ -1,0 +1,18 @@
+#Check the data type of different variables.
+a=10
+b=4.56
+c="SHIVSAI"
+d=True
+e={}
+f=()
+g=[]
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))
+print(type(g))
+
+
+
