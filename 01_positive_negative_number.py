@@ -1,8 +1,0 @@
-#Check positive or negative.
-num=int(input("Enter any number: "))
-if num>0:
-    print(f"Number {num} is Positive")
-elif num==0:
-    print(f"Number {num} is a Zero")    
-else:
-    print(f"Number {num} is Negative")    
