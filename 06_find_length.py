@@ -1,3 +1,0 @@
-#Find length.
-t = (10, 20, 30, 40)
-print(len(t))
