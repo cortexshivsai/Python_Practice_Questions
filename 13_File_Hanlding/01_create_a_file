@@ -1,0 +1,11 @@
+#Create a file
+#Method 1
+with open("data.txt", "w") as file:#Use "w" mode. If the file doesn't exist, Python creates it.
+    pass
+
+print("File created successfully")
+
+#Method 2
+# file = open("data.txt", "w")
+# file.close()
+# print("File created successfully")
