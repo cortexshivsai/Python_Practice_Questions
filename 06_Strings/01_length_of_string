@@ -1,0 +1,3 @@
+#Length of the string
+str1=input("Enter any string: ")
+print("Length of string is:  ",len(str1)) #str.len function considers spaces between words also 
