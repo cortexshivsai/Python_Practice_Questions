@@ -1,5 +1,0 @@
-#Function to Print Hello
-def hello():
-    print("Hello")
-
-hello()
