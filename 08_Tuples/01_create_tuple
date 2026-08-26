@@ -1,0 +1,3 @@
+#Create tuple.
+t=(12,132,"shiv",4.44,False)
+print(type(t))
