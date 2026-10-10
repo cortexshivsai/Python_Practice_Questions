@@ -1,0 +1,16 @@
+# Create A Class : A class is like a blueprint/template for creating objects.  
+# Creating a class named Student
+class Student:
+
+    # Method to display student information
+    def display(self):
+        print("Name: Shivsai")
+        print("Course: B.Tech CSE AIML")
+        print("Year: 3rd Year")
+
+
+# Creating an object of the Student class
+student1 = Student()
+
+# Calling the method using the object
+student1.display()
