@@ -1,0 +1,2 @@
+# Import selected functions from operations.py
+from .operations import add, multiply, square
